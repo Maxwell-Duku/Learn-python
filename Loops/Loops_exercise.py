@@ -1,4 +1,4 @@
-#state = ""
+#  state = ""
 for num in range(1,21):
     #print(num)
     if num == 4 or num == 13:
